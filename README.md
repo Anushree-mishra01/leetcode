@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anushree-mishra01/leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Anushree-mishra01/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Anushree-mishra01/leetcode/tree/master/0509-fibonacci-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anushree-mishra01/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Anushree-mishra01/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anushree-mishra01/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anushree-mishra01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Anushree-mishra01/leetcode/tree/master/0189-rotate-array) |
 | [0275-h-index-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/0275-h-index-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anushree-mishra01/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushree-mishra01/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anushree-mishra01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Anushree-mishra01/leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
