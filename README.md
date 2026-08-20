@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anushree-mishra01/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushree-mishra01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushree-mishra01/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anushree-mishra01/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anushree-mishra01/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anushree-mishra01/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushree-mishra01/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Recursion
 |  |
 | ------- |
