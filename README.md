@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anushree-mishra01/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushree-mishra01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushree-mishra01/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anushree-mishra01/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Anushree-mishra01/leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushree-mishra01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anushree-mishra01/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anushree-mishra01/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Anushree-mishra01/leetcode/tree/master/1122-relative-sort-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Quicksort
 |  |
 | ------- |
