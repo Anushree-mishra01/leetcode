@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Anushree-mishra01/leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Anushree-mishra01/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Anushree-mishra01/leetcode/tree/master/0509-fibonacci-number) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Anushree-mishra01/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anushree-mishra01/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Anushree-mishra01/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anushree-mishra01/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
