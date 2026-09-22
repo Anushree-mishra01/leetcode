@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0015-3sum) |
+| [0151-reverse-words-in-a-string](https://github.com/Anushree-mishra01/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anushree-mishra01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Anushree-mishra01/leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Anushree-mishra01/leetcode/tree/master/0455-assign-cookies) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Anushree-mishra01/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anushree-mishra01/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
