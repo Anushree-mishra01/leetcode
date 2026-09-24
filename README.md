@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anushree-mishra01/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anushree-mishra01/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Anushree-mishra01/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anushree-mishra01/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anushree-mishra01/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Anushree-mishra01/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushree-mishra01/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anushree-mishra01/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anushree-mishra01/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anushree-mishra01/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anushree-mishra01/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
