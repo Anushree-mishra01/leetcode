@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Anushree-mishra01/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anushree-mishra01/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anushree-mishra01/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3765-complete-prime-number](https://github.com/Anushree-mishra01/leetcode/tree/master/3765-complete-prime-number) |
 | [3870-count-commas-in-range](https://github.com/Anushree-mishra01/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anushree-mishra01/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Anushree-mishra01/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3765-complete-prime-number](https://github.com/Anushree-mishra01/leetcode/tree/master/3765-complete-prime-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anushree-mishra01/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/Anushree-mishra01/leetcode/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
