@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anushree-mishra01/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2615-sum-of-distances](https://github.com/Anushree-mishra01/leetcode/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushree-mishra01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushree-mishra01/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anushree-mishra01/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2615-sum-of-distances](https://github.com/Anushree-mishra01/leetcode/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushree-mishra01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anushree-mishra01/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2615-sum-of-distances](https://github.com/Anushree-mishra01/leetcode/tree/master/2615-sum-of-distances) |
 | [3903-smallest-stable-index-i](https://github.com/Anushree-mishra01/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
