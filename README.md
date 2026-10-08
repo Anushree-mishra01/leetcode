@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anushree-mishra01/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushree-mishra01/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/Anushree-mishra01/leetcode/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushree-mishra01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushree-mishra01/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushree-mishra01/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/Anushree-mishra01/leetcode/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushree-mishra01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anushree-mishra01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anushree-mishra01/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushree-mishra01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
