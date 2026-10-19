@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anushree-mishra01/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1550-three-consecutive-odds](https://github.com/Anushree-mishra01/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anushree-mishra01/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anushree-mishra01/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anushree-mishra01/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Anushree-mishra01/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Anushree-mishra01/leetcode/tree/master/0611-valid-triangle-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushree-mishra01/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anushree-mishra01/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Anushree-mishra01/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Anushree-mishra01/leetcode/tree/master/0611-valid-triangle-number) |
 | [1122-relative-sort-array](https://github.com/Anushree-mishra01/leetcode/tree/master/1122-relative-sort-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anushree-mishra01/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anushree-mishra01/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
