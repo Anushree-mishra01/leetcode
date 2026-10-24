@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Anushree-mishra01/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushree-mishra01/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anushree-mishra01/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushree-mishra01/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/Anushree-mishra01/leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Anushree-mishra01/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Anushree-mishra01/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anushree-mishra01/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/Anushree-mishra01/leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anushree-mishra01/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Anushree-mishra01/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Anushree-mishra01/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anushree-mishra01/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushree-mishra01/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anushree-mishra01/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anushree-mishra01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Anushree-mishra01/leetcode/tree/master/0561-array-partition) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Anushree-mishra01/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/Anushree-mishra01/leetcode/tree/master/1122-relative-sort-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anushree-mishra01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anushree-mishra01/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
