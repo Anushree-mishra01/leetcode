@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Anushree-mishra01/leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Anushree-mishra01/leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Anushree-mishra01/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0821-shortest-distance-to-a-character](https://github.com/Anushree-mishra01/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/Anushree-mishra01/leetcode/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Anushree-mishra01/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushree-mishra01/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anushree-mishra01/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Anushree-mishra01/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Anushree-mishra01/leetcode/tree/master/0611-valid-triangle-number) |
+| [0821-shortest-distance-to-a-character](https://github.com/Anushree-mishra01/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anushree-mishra01/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anushree-mishra01/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Anushree-mishra01/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Anushree-mishra01/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/Anushree-mishra01/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anushree-mishra01/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Anushree-mishra01/leetcode/tree/master/1021-remove-outermost-parentheses) |
