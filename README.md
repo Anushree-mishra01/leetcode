@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Anushree-mishra01/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Anushree-mishra01/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Anushree-mishra01/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anushree-mishra01/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Anushree-mishra01/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Anushree-mishra01/leetcode/tree/master/0836-rectangle-overlap) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anushree-mishra01/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Anushree-mishra01/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Anushree-mishra01/leetcode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Anushree-mishra01/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushree-mishra01/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anushree-mishra01/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Anushree-mishra01/leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
