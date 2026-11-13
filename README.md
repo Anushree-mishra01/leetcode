@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Anushree-mishra01/leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Anushree-mishra01/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anushree-mishra01/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/Anushree-mishra01/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anushree-mishra01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushree-mishra01/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anushree-mishra01/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Anushree-mishra01/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anushree-mishra01/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Anushree-mishra01/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Simulation
 |  |
 | ------- |
@@ -270,12 +272,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anushree-mishra01/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Anushree-mishra01/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Anushree-mishra01/leetcode/tree/master/0561-array-partition) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anushree-mishra01/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/Anushree-mishra01/leetcode/tree/master/1122-relative-sort-array) |
+| [1267-count-servers-that-communicate](https://github.com/Anushree-mishra01/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anushree-mishra01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anushree-mishra01/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -388,9 +392,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anushree-mishra01/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anushree-mishra01/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/Anushree-mishra01/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anushree-mishra01/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anushree-mishra01/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Anushree-mishra01/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
