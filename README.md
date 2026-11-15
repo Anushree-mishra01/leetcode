@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anushree-mishra01/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Anushree-mishra01/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Anushree-mishra01/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -405,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Anushree-mishra01/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
