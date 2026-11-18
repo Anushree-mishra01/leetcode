@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anushree-mishra01/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anushree-mishra01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anushree-mishra01/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Anushree-mishra01/leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Anushree-mishra01/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anushree-mishra01/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Anushree-mishra01/leetcode/tree/master/0078-subsets) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anushree-mishra01/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anushree-mishra01/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anushree-mishra01/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -415,4 +417,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Anushree-mishra01/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
