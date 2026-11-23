@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anushree-mishra01/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Anushree-mishra01/leetcode/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anushree-mishra01/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anushree-mishra01/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anushree-mishra01/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Anushree-mishra01/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1267-count-servers-that-communicate](https://github.com/Anushree-mishra01/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anushree-mishra01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushree-mishra01/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anushree-mishra01/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anushree-mishra01/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anushree-mishra01/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anushree-mishra01/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Anushree-mishra01/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2256-minimum-average-difference](https://github.com/Anushree-mishra01/leetcode/tree/master/2256-minimum-average-difference) |
@@ -428,4 +431,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Anushree-mishra01/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anushree-mishra01/leetcode/tree/master/0090-subsets-ii) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Anushree-mishra01/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
