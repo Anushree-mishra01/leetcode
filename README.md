@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anushree-mishra01/leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anushree-mishra01/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Anushree-mishra01/leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [3360-stone-removal-game](https://github.com/Anushree-mishra01/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Anushree-mishra01/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anushree-mishra01/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anushree-mishra01/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Anushree-mishra01/leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Anushree-mishra01/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushree-mishra01/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Anushree-mishra01/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anushree-mishra01/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
